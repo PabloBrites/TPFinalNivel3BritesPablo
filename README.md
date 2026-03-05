@@ -1,5 +1,14 @@
-Illustrative photos showing how the finished project looks
+Project Architecture
 
+Web Layer (ASP.NET WebForms)
+        ↓
+Business Layer
+        ↓
+Data Access Layer (ADO.NET)
+        ↓
+SQL Server Database
+
+Illustrative photos showing how the finished project looks
 
 <img width="1920" height="915" alt="Captura de pantalla (757)" src="https://github.com/user-attachments/assets/d332f89b-9377-4e9a-9bca-32f419921080" />
 <img width="1907" height="911" alt="Captura de pantalla (756)" src="https://github.com/user-attachments/assets/21559972-81be-4f0b-b7aa-0b61a31c624c" />
